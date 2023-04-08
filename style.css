@@ -1,0 +1,22 @@
+/*CSS for index*/
+.pic
+{width: 500px;
+height: auto;
+margin-bottom: 75px;
+border-color: rgb(0, 51, 255);
+border-radius: 30px;
+}
+
+*
+{text-align: center;
+background-color: rgb(210, 95, 24);}
+
+.list{color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-style: italic;
+    }
+
+.title
+{margin: 75px;
+font-style: italic;}
+
